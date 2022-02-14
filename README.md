@@ -4,7 +4,7 @@
 
 🔭 I’m currently working at InPlayer as back-end engineer
 
-✍️ Checkout my blog https://gudgl.me
+✍️ Checkout my [blog](https://gudgl.netlify.app)
 
 <!--
 **gudgl/gudgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
