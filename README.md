@@ -6,6 +6,8 @@
 
 ✍️ Checkout my [blog](https://gudgl.netlify.app)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gudgl&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **gudgl/gudgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
